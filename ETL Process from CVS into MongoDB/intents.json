@@ -1,0 +1,66 @@
+
+
+{"intents": [
+        {"tag": "First",
+         "patterns": ["Length of best Netflix movie 5 years ago", "How long was the best movie on Netflix 5 years ago?", "What is the duration of the best movie on Netfilx 5 years ago?", "How long was the highest rated movie on Netflix 5 years ago?", "How long was the best movie on Netflix fi ve years ago?", "What is the length of the best movie on Netflix 5 years ago?", "How long was the top movie on Netflix in 2018?"],
+         "responses": ["Q1"],
+         "context_set": ""
+        },
+        {"tag": "Second",
+         "patterns": ["Top 2022 Netflix Movie", "What was the top movie on Netflix in 2022?", "What is the name of the top movie on Netflix in 2022?", "What was the best movie on Netflix in 2022?"],
+         "responses": ["Q2"],
+         "context_set": ""
+        },
+        {"tag": "Third",
+         "patterns": ["Release year of best Netflix movie", "What was the release year of the best movie on Netflix of all time?", "What year was the best movie of all time on Netflix released?"],
+         "responses": ["Q3"],
+         "context_set": ""
+        },
+        {"tag": "Fourth",
+         "patterns": ["Genre of shortest 2015 Netflix movie", "What genre of movie was the shortest movie released on Netflix five years ago?", "What genre of movie was the shortest movie released on Netflix 5 years ago?"],
+         "responses": ["Q4"],
+         "context_set": ""
+        },
+        {"tag": "Fifth",
+         "patterns": ["Production company that produced the worst 2022 Netflix movie", "What main production company made the worst movie on Netflix this year?", "What main production company produced the worst movie on Netflix in 2022?"],
+         "responses": ["Q5"],
+         "context_set": ""
+        },
+        {"tag": "Sixth",
+         "patterns": ["Genre of the top 2020 Netflix show", "What is the genre of the best show on Netflix 2 years ago?", "What genre was the top show on Netflix in 2020?", "What is the genre of the best show on Netflix two years ago?"],
+         "responses": ["Q6"],
+         "context_set": ""
+        },
+        {"tag": "Seventh",
+         "patterns": ["Production company that produced the top Netflix show", "What main production company produced the top show of all time on Netflix?", "Which main production company made the best show on Netflix?"],
+         "responses": ["Q7"],
+         "context_set": ""
+        },
+        {"tag": "Eighth",
+         "patterns": ["Worst 2021 Netflix show", "What was the worst show on Netflix in 2021?", "Show me the worst show on Netflix in 2021.", "Show me the worst show on Netflix a year ago.", "What was the worst show on Netflix a year ago?"],
+         "responses": ["Q8"],
+         "context_set": ""
+        },
+        {"tag": "Ninth",
+         "patterns": ["Average length of episode for best 2022 Netflix show", "How long was the average episode on the best show on Netflix in 2022?", "How long was each episode on the top show on Netflix this year?"],
+         "responses": ["Q9"],
+         "context_set": ""
+        },
+        {"tag": "Tenth",
+         "patterns": ["Genre of worst 2021 Netflix show", "What was the genre of the worst show on Netflix in 2021?", "What was the genre of the lowest ranking show on Netflix a year ago?", "What was the genre of the worst show on Netflix last year?", "What was the genre of the lowest ranking show on Netflix one year ago?"],
+         "responses": ["Q10"],
+         "context_set": ""
+        }
+    
+         
+]
+}
+
+
+
+
+
+
+
+
+
