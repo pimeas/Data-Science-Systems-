@@ -6,7 +6,6 @@ import pymongo
 from pymongo import MongoClient
 
 '''
-Names (computing id): Hannah Lee (hsl8xrv), Joanne Lee (jl7yyb), Sammy Park (scp9cqg)
 Date: 12/15/2022
 Link: https://github.com/joanneslee/ds2002/tree/main/DS-2002-Final-Project
 '''
