@@ -7,7 +7,6 @@ from pymongo import MongoClient
 
 '''
 Date: 12/15/2022
-Link: https://github.com/joanneslee/ds2002/tree/main/DS-2002-Final-Project
 '''
 
 '''
