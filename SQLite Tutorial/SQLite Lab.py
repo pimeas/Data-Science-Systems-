@@ -2,7 +2,7 @@
 # https://github.com/pimeas/SQL-Lite-Lab.git
 
 import sqlite3
-conn = sqlite3.connect(r'/Users/SammyCPark/Desktop/DS 2002/DS2002/orders.db')
+conn = sqlite3.connect(r'~/orders.db')
 cur = conn.cursor()
 
 # users table
