@@ -1,4 +1,4 @@
-# https://github.com/pimeas/Lab-4.git
+
 import json
 import requests
 import pandas
